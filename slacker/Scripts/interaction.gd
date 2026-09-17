@@ -1,9 +1,14 @@
 extends RayCast3D
 
-func _process(delta: float) -> void:
-	#if get_collider():
-		#print(get_collider().get_class())
+var canInteract = true
+
+func _process(_delta: float) -> void:
+	var collider = get_collider()
+
+	if Input.is_action_just_pressed("interact") and canInteract:
 		
-	if Input.is_action_just_pressed("interact"):
-		if get_collider():
-			get_collider().Interact(self.get_parent())
+		if collider:
+			var interactable = collider.get_node_or_null("InteractableComponent")
+
+			if interactable and interactable.Interactable:
+				interactable.Interact(self.get_parent().get_parent())
