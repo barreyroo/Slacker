@@ -2,7 +2,6 @@ extends VBoxContainer
 
 func _ready() -> void:
 	OrderManager.StartedOrder.connect(AddOrder)
-	OrderManager.AdvancedOrder.connect(UpdateOrder)
 	OrderManager.CompletedOrder.connect(DeleteOrder)
 
 func AddOrder(order: Order) -> void:
@@ -10,7 +9,7 @@ func AddOrder(order: Order) -> void:
 	add_child(label)
 	label.order = order
 	label.fit_content = true
-	label.text = "ORDER \n---------\n" + order.get_current_step().description + "\n---------"
+	label.text = "ORDER \n---------\n" + order.GetEntree().GetName() + "\n---------"
 
 func UpdateOrder(order: Order) -> void:
 	print("Updating Order UI")
