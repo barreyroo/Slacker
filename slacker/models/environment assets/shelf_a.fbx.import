@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://cx0eorv3gewg8"
-path="res://.godot/imported/stove.fbx-380f44c019a30d34369c14ba92e4fadd.scn"
+uid="uid://dj300s48akkxb"
+path="res://.godot/imported/shelf_a.fbx-d59924f2fd88174f16e8c39d80b45f43.scn"
 
 [deps]
 
-source_file="res://models/stove.fbx"
-dest_files=["res://.godot/imported/stove.fbx-380f44c019a30d34369c14ba92e4fadd.scn"]
+source_file="res://models/environment assets/shelf_a.fbx"
+dest_files=["res://.godot/imported/shelf_a.fbx-d59924f2fd88174f16e8c39d80b45f43.scn"]
 
 [params]
 

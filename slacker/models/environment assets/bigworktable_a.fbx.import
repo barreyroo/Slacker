@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://b4en0fcx8g0ml"
-path="res://.godot/imported/shortshelf.fbx-eeedceeb2316cd6dcb558e272a92f2aa.scn"
+uid="uid://bmrxgqa0a21nn"
+path="res://.godot/imported/bigworktable_a.fbx-5fa0b9765065fc1b96717085e383f11c.scn"
 
 [deps]
 
-source_file="res://models/shortshelf.fbx"
-dest_files=["res://.godot/imported/shortshelf.fbx-eeedceeb2316cd6dcb558e272a92f2aa.scn"]
+source_file="res://models/environment assets/bigworktable_a.fbx"
+dest_files=["res://.godot/imported/bigworktable_a.fbx-5fa0b9765065fc1b96717085e383f11c.scn"]
 
 [params]
 

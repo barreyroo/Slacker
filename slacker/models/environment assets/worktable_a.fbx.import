@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dhxanllv84h8a"
-path="res://.godot/imported/oven vent.fbx-b29a49af9ca1fdb4500ba16e736ac36f.scn"
+uid="uid://c5wj1dfo01ed0"
+path="res://.godot/imported/worktable_a.fbx-3695a778214e4cf59265e19dfbdb041d.scn"
 
 [deps]
 
-source_file="res://models/oven vent.fbx"
-dest_files=["res://.godot/imported/oven vent.fbx-b29a49af9ca1fdb4500ba16e736ac36f.scn"]
+source_file="res://models/environment assets/worktable_a.fbx"
+dest_files=["res://.godot/imported/worktable_a.fbx-3695a778214e4cf59265e19dfbdb041d.scn"]
 
 [params]
 

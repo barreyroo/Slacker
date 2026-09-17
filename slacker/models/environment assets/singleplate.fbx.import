@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://cyandnwhal77"
-path="res://.godot/imported/fryer.fbx-b5c2c97810cc0e26cc7ec82f0e3b85cb.scn"
+uid="uid://dukvowtrkd6el"
+path="res://.godot/imported/singleplate.fbx-a4284c8a95e69b8eaf7b89c926345e88.scn"
 
 [deps]
 
-source_file="res://models/fryer.fbx"
-dest_files=["res://.godot/imported/fryer.fbx-b5c2c97810cc0e26cc7ec82f0e3b85cb.scn"]
+source_file="res://models/environment assets/singleplate.fbx"
+dest_files=["res://.godot/imported/singleplate.fbx-a4284c8a95e69b8eaf7b89c926345e88.scn"]
 
 [params]
 

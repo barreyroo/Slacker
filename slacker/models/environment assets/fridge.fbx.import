@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dvlbmp7inyps2"
-path="res://.godot/imported/storageshelf.fbx-e80207998046a1d78b90df1153296a60.scn"
+uid="uid://djs26j3a3v08t"
+path="res://.godot/imported/fridge.fbx-23df1b76014c7898475fb98d1721237a.scn"
 
 [deps]
 
-source_file="res://models/storageshelf.fbx"
-dest_files=["res://.godot/imported/storageshelf.fbx-e80207998046a1d78b90df1153296a60.scn"]
+source_file="res://models/environment assets/fridge.fbx"
+dest_files=["res://.godot/imported/fridge.fbx-23df1b76014c7898475fb98d1721237a.scn"]
 
 [params]
 

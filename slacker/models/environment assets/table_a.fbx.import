@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://r1r18cn8onh7"
-path="res://.godot/imported/worktable shelf M.fbx-0149d7d3d436ba941c2c7e6cf873d4d2.scn"
+uid="uid://d3y3krjm7c4y1"
+path="res://.godot/imported/table_a.fbx-4d4827cb3dd2494a6187575331059fc8.scn"
 
 [deps]
 
-source_file="res://models/worktable shelf M.fbx"
-dest_files=["res://.godot/imported/worktable shelf M.fbx-0149d7d3d436ba941c2c7e6cf873d4d2.scn"]
+source_file="res://models/environment assets/table_a.fbx"
+dest_files=["res://.godot/imported/table_a.fbx-4d4827cb3dd2494a6187575331059fc8.scn"]
 
 [params]
 

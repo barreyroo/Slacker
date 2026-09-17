@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bdp2arnrjrwer"
-path="res://.godot/imported/table.fbx-415aca57b7dfeb0f13560cf5d938d1b3.scn"
+uid="uid://bw3aw3uf81v5d"
+path="res://.godot/imported/stackofplates.fbx-38c3c38ba9e2ce6cc4792703ddbf6a54.scn"
 
 [deps]
 
-source_file="res://models/table.fbx"
-dest_files=["res://.godot/imported/table.fbx-415aca57b7dfeb0f13560cf5d938d1b3.scn"]
+source_file="res://models/environment assets/stackofplates.fbx"
+dest_files=["res://.godot/imported/stackofplates.fbx-38c3c38ba9e2ce6cc4792703ddbf6a54.scn"]
 
 [params]
 
